@@ -1,1 +1,1 @@
-# ai-upskill-journey
+Day 1 — Started AI upskilling roadmap
